@@ -1,0 +1,12 @@
+[
+ {"slug":"vegetables","name":"Vegetables","description":"Fresh vegetables for your daily cooking","emoji":"🥬","color":"#dcfce7"},
+ {"slug":"fruits","name":"Fruits","description":"Fresh and healthy fruits every day","emoji":"🍎","color":"#fee2e2"},
+ {"slug":"dairy","name":"Dairy","description":"Milk, cheese and fresh dairy products","emoji":"🥛","color":"#e0f2fe"},
+ {"slug":"rice-grains","name":"Rice & Grains","description":"Quality rice, wheat and grains","emoji":"🍚","color":"#fef3c7"},
+ {"slug":"cooking-essentials","name":"Cooking Essentials","description":"Everything you need for your kitchen","emoji":"🫗","color":"#ffedd5"},
+ {"slug":"personal-care","name":"Personal Care","description":"Everyday personal care essentials","emoji":"🧴","color":"#f3e8ff"},
+ {"slug":"bakery","name":"Bakery","description":"Freshly baked bread and treats","emoji":"🍞","color":"#fde68a"},
+ {"slug":"beverages","name":"Beverages","description":"Refreshing drinks, tea and coffee","emoji":"🧃","color":"#cffafe"},
+ {"slug":"snacks","name":"Snacks","description":"Tasty snacks for every craving","emoji":"🍪","color":"#fee2e2"},
+ {"slug":"household","name":"Household","description":"Cleaning and everyday household needs","emoji":"🧺","color":"#e5e7eb"}
+]
